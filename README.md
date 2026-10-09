@@ -2,6 +2,7 @@
 
 A self-installing VLESS/XHTTP VPN panel that runs **entirely in PHP**, with no SSH, no root, and no ability to bind a raw public port — built for ordinary cPanel-style shared hosting.
 
+
 [فارسی ↓](#پنل-vpn-بدون-روت)
 
 ---
